@@ -1,0 +1,56 @@
+#myheader {
+  background-color: powderblue;
+  color: green;
+  border: 15px solid green;
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  font-size: 80px;
+  font-family: fantasy;
+}
+
+.body {
+background-color:lightgreen;
+}
+
+.headshot {
+width: 500px; 
+height: 433px;
+}
+
+.hoare {
+width: 500px; 
+height: 433px;
+}
+
+.tony {
+width: 500px; 
+height: 433px;
+}
+
+.cont {
+font-size:60px;
+text-align: center;
+}
+
+.p1 {
+background-color: powderblue;
+}
+
+.h3 {
+font-size:60px;
+text-align: center;
+}
+
+.history {
+background-color: powderblue;
+}
+
+.quote {
+font-size:60px;
+text-align: center;
+}
+
+.qu {
+background-color: powderblue;
+}
